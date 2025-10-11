@@ -325,3 +325,6 @@ button:hover {
   text-align: center;
   cursor: pointer;
 }
+html {
+  scroll-behavior: smooth;
+}
